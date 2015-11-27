@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-27T12:57:40.327Z'
-dateModified: '2015-11-27T12:57:37.366Z'
+datePublished: '2015-11-27T21:26:31.596Z'
+dateModified: '2015-11-27T21:26:23.755Z'
 title: 'Welcome to Bluebird FX!'
 author: []
 authors: []
