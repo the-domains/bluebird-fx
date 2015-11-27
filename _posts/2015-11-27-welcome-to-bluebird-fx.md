@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-27T11:56:54.433Z'
-dateModified: '2015-11-27T08:11:35.287Z'
+datePublished: '2015-11-27T11:58:54.305Z'
+dateModified: '2015-11-27T11:57:59.260Z'
 title: 'Welcome to Bluebird FX!'
 author: []
 authors: []
