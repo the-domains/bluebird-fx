@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Bluebird FX]]></title>
         <description><![CDATA[Bluebird FX]]></description>
-        <link>https://thegrid.ai/bluebird-fx/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 11:59:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/bluebird-fx/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 Nov 2015 11:58:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Bluebird FX!]]></title>
             <description><![CDATA[<article><h1>Welcome to Bluebird FX!</h1><p>You found us at last!
@@ -18,9 +18,9 @@ Our flagship product - BLUEBIRD INKS - an alcohol activated cosmetic for use on 
 With stronger pigment and greater flexibility, Bluebird Inks stay on longer, use less product and look more natural.
 
 Used on major motion pictures the world over – Welcome to Bluebird FX</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8164e2b9-1d8b-4c42-a0fc-62bece4cff35.png"></article>]]></description>
-            <link>https://thegrid.ai/bluebird-fx/welcome-to-bluebird-fx/index.html</link>
+            <link>undefinedwelcome-to-bluebird-fx/index.html</link>
             <guid isPermaLink="false">b7fe845c-e488-423f-ab8a-633ceae2531f</guid>
-            <pubDate>Fri, 27 Nov 2015 11:58:54 GMT</pubDate>
+            <pubDate>Fri, 27 Nov 2015 11:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
