@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-27T21:26:31.596Z'
-dateModified: '2015-11-27T21:26:23.755Z'
+datePublished: '2015-11-28T07:00:25.932Z'
+dateModified: '2015-11-28T07:00:20.819Z'
 title: 'Welcome to Bluebird FX!'
 author: []
+sourcePath: _posts/2015-11-27-welcome-to-bluebird-fx.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-welcome-to-bluebird-fx.md
-published: true
 url: welcome-to-bluebird-fx/index.html
 _type: Article
 
