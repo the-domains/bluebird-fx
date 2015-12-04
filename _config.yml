@@ -1,6 +1,6 @@
 name: Bluebird FX
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.98386
 typography_spectrum: 0.41545
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#96998b'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
